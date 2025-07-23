@@ -57,4 +57,5 @@ print(f"How much days can I operate one server with $918?\n{int(918/pdc)} days")
 Submitted by:
 Ayush Kumar Sinha
 0176CS221053
+DS_251120024
 '''
