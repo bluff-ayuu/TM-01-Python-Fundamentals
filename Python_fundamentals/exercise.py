@@ -101,9 +101,9 @@ while temp > 0:
     rev = (rev * 10) + rem
     temp //= 10
 if rev == a:
-    print("palindrome")
+    print(f"{a} is palindrome")
 else:
-    print("not palindrome")
+    print(f"{a} is not palindrome")
 
 
 '''
